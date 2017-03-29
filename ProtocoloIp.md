@@ -62,7 +62,7 @@
   - Si se divide en 8 sub redes
     - 256/8=32-2=30
     -2^x >= 8 siendo 8 numero de subredes, en este caso 3
-    - por lo tanto, mascara /27= /24 + x
+    - por lo tanto, mascara /27= /24 + x o 255.255.255.224
 # SUBREDES
 - Reduce tamaño de dominios
 - Hace red mas manejable
