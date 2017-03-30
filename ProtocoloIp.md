@@ -68,3 +68,7 @@
 - Hace red mas manejable
 - Controla trafico entre subredes
 
+# RESOLUCION EJERCICIOS CLASES
+# SUB REDES 1, Hosts 0
+# Obtener red 39 ejercicio 2 de 10.0.0.0 a 10.1.255.255, next 10.2.0.0 a 10.3.255.255, forma 2*n-1 con n numero de sub red
+
