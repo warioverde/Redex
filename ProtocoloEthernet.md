@@ -18,3 +18,4 @@
 - asocia puertos a direcciones
 - Transmite solo al puerto adecuado
 - FULL DUPLEX, menos colisiones
+- te amo 
